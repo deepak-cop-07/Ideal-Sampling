@@ -5,6 +5,7 @@ Write a simple Python program for the construction and reconstruction of ideal, 
 # Program
 
 # Impulse Sampling :
+```
 
 import numpy as np
 
@@ -77,9 +78,9 @@ plt.grid(True)
 plt.legend()
 
 plt.show()
-
+```
 #Natural sampling
-
+```
 import numpy as np
 
 import matplotlib.pyplot as plt
@@ -195,10 +196,10 @@ plt.grid(True)
 plt.tight_layout()
 
 plt.show()
-
+```
 # Flat-top Sampling
 
-
+```
 import numpy as np
 
 import matplotlib.pyplot as plt
@@ -318,7 +319,7 @@ plt.grid(True)
 plt.tight_layout()
 
 plt.show()
-
+```
 
 # Output Waveform
 
